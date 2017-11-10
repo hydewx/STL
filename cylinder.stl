@@ -57,20 +57,16 @@ endloop
 endfacet
 facet normal 0 0 0
 outer loop
-endloop
-endfacet
-endloop
-endfacet
-facet normal 0 0 0
-outer loop
-endloop
-endfacet
+vertex 2.500000 2.500000 2.500000
+vertex -2.500000 2.500000 2.500000
+vertex -2.500000 -2.500000 2.500000
 endloop
 endfacet
 facet normal 0 0 0
 outer loop
-endloop
-endfacet
+vertex -2.500000 -2.500000 2.500000
+vertex 2.500000 -2.500000 2.500000
+vertex 2.500000 2.500000 2.500000
 endloop
 endfacet
 endsolid cube
